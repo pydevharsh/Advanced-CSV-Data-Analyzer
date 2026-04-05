@@ -95,7 +95,7 @@ Unlike basic CSV viewers, this application offers:
 
 ## 🖥️ GUI Preview
 
-![GUI Preview](GUI_Preview.png)
+![GUI Preview](GUI.png)
 
 ------------------------------------------------------------------------
 
